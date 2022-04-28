@@ -1,6 +1,6 @@
 const user = {
-  name: "Liza",
-  city: "New York",
+  name: "Justin",
+  city: "Rhode Island",
   bio: "I made this!",
   color: "firebrick",
   links: {
